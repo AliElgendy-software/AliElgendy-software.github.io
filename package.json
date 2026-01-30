@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AliElgendy.github.io",
+  "homepage": "https://AliElgendy-software.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
